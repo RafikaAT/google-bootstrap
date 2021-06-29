@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+/* form {
+    display: inline-block;
+} */
+
+#searchbar {
+    display: inline-block;
+    width: 50%;
+    height:40%;
+    border-radius: 3px;
+}
+
+.buttons {
+    display: inline-block;
+    cursor:pointer;
+}
